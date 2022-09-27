@@ -1,1 +1,2 @@
 Foi implementado sistema de segurança no login
+Foi realizada mudança na segurança do cpf
